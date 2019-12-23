@@ -5,6 +5,7 @@
   "authors": "Ignaz Biegler",
   "theme_version": "3.4",
   "assets": {
+    "icons-sprite": "/assets/my-icons.svg"
   },
   "color_schemes": {
     "Alien Night | A Dark Discourse Theme": {
@@ -21,7 +22,6 @@
     }
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
-},
-"assets": {
-   "icons-sprite": "/assets/my-icons.svg"
 }
+ 
+
